@@ -1,5 +1,13 @@
 # config
-config.py
+
+#config.py
+#
+
+./ABI/*
+contracts/*.txt
+contracts/openzeppelin-contracts
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
